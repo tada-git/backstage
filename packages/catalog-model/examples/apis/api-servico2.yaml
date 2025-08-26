@@ -9,6 +9,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: equipe-api
+  owner: team-a
   definition:
     $text: ./petstore.oas.yaml
