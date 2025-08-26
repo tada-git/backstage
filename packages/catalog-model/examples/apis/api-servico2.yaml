@@ -12,3 +12,6 @@ spec:
   owner: team-a
   definition:
     $text: ./petstore.oas.yaml
+  consumedBy:
+  - component:default/servico-teste
+
