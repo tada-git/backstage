@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: api-servico2
+  description: API de teste consumida por servico-teste
+  tags:
+  - teste
+  - servico
+spec:
+  type: openapi
+  lifecycle: production
+  owner: equipe-api
