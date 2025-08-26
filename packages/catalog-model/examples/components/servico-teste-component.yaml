@@ -9,6 +9,6 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: equipe-teste
+  owner: team-a
   consumesApi:
   - api:default/api-servico2
