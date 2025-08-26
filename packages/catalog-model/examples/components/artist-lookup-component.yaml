@@ -39,4 +39,4 @@ spec:
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
   hasPart:
-    - component:default/petstore
+  - component:default/petstore
