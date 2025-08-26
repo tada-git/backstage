@@ -38,3 +38,10 @@ spec:
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
+relations:
+  - type: hasPart
+    target:
+      kind: Component
+      namespace: default
+      name: petstore
+
