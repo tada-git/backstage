@@ -19,4 +19,6 @@ spec:
     - petstore
     - streetlights
     - hello-world
+  consumesApi:
+    - api:default/spotify
   partOf: ['component:artist-lookup']
