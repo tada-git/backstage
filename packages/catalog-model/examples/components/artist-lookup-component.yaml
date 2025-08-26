@@ -40,8 +40,4 @@ spec:
   apiConsumedBy: ['component:www-artist']
 relations:
   - type: hasPart
-    target:
-      kind: Component
-      namespace: default
-      name: petstore
-
+    targetRef: component:default/petstore
