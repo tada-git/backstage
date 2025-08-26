@@ -11,4 +11,4 @@ spec:
   lifecycle: production
   owner: equipe-api
   definition:
-    $text: ./openapi.yaml
+    $text: ./petstore.oas.yaml
