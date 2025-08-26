@@ -10,5 +10,4 @@ spec:
   type: service
   lifecycle: production
   owner: team-a
-  consumesApi:
-  - api:default/api-servico2
+  consumesApi: ['api:default/api-servico2']
