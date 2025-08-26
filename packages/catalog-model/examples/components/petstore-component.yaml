@@ -19,3 +19,4 @@ spec:
     - petstore
     - streetlights
     - hello-world
+  partOf: ['component:artist-lookup']
