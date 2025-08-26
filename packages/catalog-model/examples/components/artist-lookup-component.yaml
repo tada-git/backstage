@@ -38,6 +38,5 @@ spec:
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
   apiConsumedBy: ['component:www-artist']
-relations:
-  - type: hasPart
-    targetRef: component:default/petstore
+  hasPart:
+    - component:default/petstore
