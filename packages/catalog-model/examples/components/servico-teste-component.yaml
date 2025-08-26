@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: servico-teste
+  description: Componente de teste que consome uma API
+  tags:
+  - teste
+  - api
+spec:
+  type: service
+  lifecycle: production
+  owner: equipe-teste
+  consumesApi:
+  - api:default/api-servico2
