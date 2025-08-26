@@ -10,3 +10,5 @@ spec:
   type: openapi
   lifecycle: production
   owner: equipe-api
+  definition:
+    $text: ./openapi.yaml
