@@ -38,5 +38,4 @@ spec:
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db', 'component:default/petstore']
   apiConsumedBy: ['component:www-artist']
-  consumesApi: ['component:default/petstore']
-  hasPart: ['component:default/petstore']
+  consumesApi: ['api:default/petstore']
