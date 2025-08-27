@@ -5,6 +5,6 @@ metadata:
   description: Storage subsystem of the Wayback Archive
 spec:
   type: service
-  lifecycle: production
+  lifecycle: Ativo
   owner: team-a
   subcomponentOf: wayback-archive
