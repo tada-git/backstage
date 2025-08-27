@@ -7,7 +7,7 @@ metadata:
     backstage.io/source-template: template:default/react-ssr-template
 spec:
   type: website
-  lifecycle: production
+  lifecycle: Aposentado
   owner: team-a
   system: artist-engagement-portal
   consumesApis: ['component:artist-lookup']
