@@ -5,7 +5,7 @@ metadata:
   description: Search of the wayback machine
 spec:
   type: service
-  lifecycle: production
+  lifecycle: Descontinuado
   owner: team-a
   providesApis:
     - wayback-search
