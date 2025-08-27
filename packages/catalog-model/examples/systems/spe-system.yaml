@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: seguranca
+  description: Subdomínio - Segurança
+  tags:
+    - comum
+spec:
+  owner: team-a
+  domain: domain:default/comum
+  type: Subdomínio
