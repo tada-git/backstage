@@ -7,5 +7,5 @@ metadata:
     - portal
 spec:
   owner: team-a
-  domain: artists
+  domain: domain:default/client-rh
   type: service
