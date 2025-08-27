@@ -8,6 +8,6 @@ metadata:
   - api
 spec:
   type: service
-  lifecycle: production
+  lifecycle: Novo
   owner: team-a
   consumesApi: ['api:default/api-servico2']
