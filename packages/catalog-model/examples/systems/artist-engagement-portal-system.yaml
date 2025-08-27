@@ -7,5 +7,5 @@ metadata:
     - portal
 spec:
   owner: team-a
-  domain: domain:default/client-rh
+  domain: domain:default/comum
   type: service
