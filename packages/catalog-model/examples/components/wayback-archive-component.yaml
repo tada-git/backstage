@@ -5,7 +5,7 @@ metadata:
   description: Archive of the wayback machine
 spec:
   type: service
-  lifecycle: production
+  lifecycle: Ativo
   owner: team-a
   providesApis:
     - wayback-archive
