@@ -4,7 +4,7 @@ metadata:
   name: wayback-archive
   description: Archive of the wayback machine
 spec:
-  type: service
+  type: externo
   lifecycle: Ativo
   owner: team-a
   providesApis:
