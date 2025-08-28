@@ -35,7 +35,7 @@ spec:
   type: service
   lifecycle: Registrado
   owner: team-a
-  system: artist-engagement-portal
+  system: system:default/venda-rh
   dependsOn: ['resource:artists-db', 'component:default/petstore']
   apiConsumedBy: ['component:www-artist']
   consumesApi: ['api:default/petstore']
