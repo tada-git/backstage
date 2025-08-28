@@ -36,6 +36,6 @@ spec:
   lifecycle: Registrado
   owner: team-a
   system: system:default/venda-rh
-  dependsOn: ['resource:artists-db', 'component:default/petstore']
+  dependsOn: ['resource:artists-db', 'component:default/petstore', 'component:default/salesforce-ext']
   apiConsumedBy: ['component:www-artist']
   consumesApi: ['api:default/petstore']
