@@ -6,9 +6,10 @@ metadata:
   tags:
   - externo
 spec:
-  type: externo
+  type: service
   lifecycle: Ativo
   owner: team-a
+  system: system:default/cliente-rh
   providesApis:
     - wayback-archive
   
