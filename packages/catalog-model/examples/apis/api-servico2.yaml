@@ -4,8 +4,16 @@ metadata:
   name: api-servico2
   description: API de teste consumida por servico-teste
   tags:
-  - teste
-  - servico
+  - lumis-token
+  - rhsso-token
+  - auth0-token
+  - publico
+  - privado
+  - login-usuario
+  - credentials
+  - apikey
+  - service-account
+  - range-ips  
 spec:
   type: openapi
   lifecycle: production
