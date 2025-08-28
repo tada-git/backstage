@@ -9,7 +9,6 @@ spec:
   type: externo
   lifecycle: Ativo
   owner: team-a
-  system: system:default/salesforce
   providesApis:
     - wayback-archive
   
