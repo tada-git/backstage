@@ -9,3 +9,5 @@ metadata:
 spec:
   owner: team-a
   type: Externo
+  consumesApis:
+    - wayback-archive
