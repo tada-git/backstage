@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: salesforce
-  title: Salesforce
+  title: Salesforce (ext)
   description: 3rd Party App
   tags:
     - externo
