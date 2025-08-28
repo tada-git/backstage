@@ -11,4 +11,7 @@ spec:
   lifecycle: Novo
   owner: team-a
   system: system:default/venda-rh
-  consumesApi: ['api:default/api-servico2']
+  consumesApis:
+    - api:default/api-servico2
+  dependsOn:
+    - component:default/salesforce-ext
