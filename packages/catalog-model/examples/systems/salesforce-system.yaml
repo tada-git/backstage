@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: salesforce
+  title: Salesforce
+  description: 3rd Party App
+  tags:
+    - externo
+spec:
+  owner: team-a
+  type: Externo
