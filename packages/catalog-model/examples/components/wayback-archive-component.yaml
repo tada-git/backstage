@@ -3,11 +3,12 @@ kind: Component
 metadata:
   name: wayback-archive
   description: Archive of the wayback machine
+  tags:
+  - externo
 spec:
   type: externo
   lifecycle: Ativo
   owner: team-a
   providesApis:
     - wayback-archive
-  tags:
-  - externo
+  
