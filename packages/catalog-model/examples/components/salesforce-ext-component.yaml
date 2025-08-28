@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: salesforce-ext
+  description: Serviço externo ref. sistema Salesforce
+  tags:
+  - externo
+spec:
+  type: externo
+  lifecycle: Novo
+  owner: team-a
+  system: system:default/salesforce
+  consumesApis:
+    - wayback-archive
