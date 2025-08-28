@@ -19,3 +19,4 @@ spec:
     - ./components/wayback-archive-storage-component.yaml
     - ./components/wayback-search-component.yaml
     - ./components/servico-teste-component.yaml
+    - ./components/salesforce-ext-component.yaml
