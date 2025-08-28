@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: salesforce-ext
-  title: Salesforce (ext)
+  title: Salesforce Service (ext)
   description: Serviço externo ref. sistema Salesforce
   tags:
   - externo
