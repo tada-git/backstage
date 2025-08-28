@@ -10,4 +10,5 @@ spec:
   type: service
   lifecycle: Novo
   owner: team-a
+  system: system:default/venda-rh
   consumesApi: ['api:default/api-servico2']
