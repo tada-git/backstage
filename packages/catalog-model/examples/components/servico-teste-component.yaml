@@ -15,3 +15,4 @@ spec:
     - api:default/api-servico2
   dependsOn:
     - component:default/salesforce-ext
+    - component:default/artist-lookup
