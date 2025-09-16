@@ -40,3 +40,4 @@ spec:
   dependsOn: ['resource:artists-db', 'component:default/petstore', 'component:default/salesforce-ext']
   apiConsumedBy: ['component:www-artist']
   consumesApi: ['api:default/petstore']
+  version: 1.2.0
