@@ -4,7 +4,6 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   tags:
-    - venda-rh
     - java
     - openapi
     - auth0-token
