@@ -16,7 +16,7 @@ metadata:
   - range-ips  
 spec:
   type: openapi
-  lifecycle: production
+  lifecycle: Ativo
   owner: team-a
   definition:
     $text: ./petstore.oas.yaml
