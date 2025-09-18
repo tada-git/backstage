@@ -6,5 +6,5 @@ metadata:
 spec:
   type: database
   owner: team-a
-  lifecycle: Registrado
+  lifecycle: Provisionado
   system: artist-engagement-portal
