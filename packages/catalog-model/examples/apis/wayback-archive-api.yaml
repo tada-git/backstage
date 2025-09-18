@@ -5,7 +5,7 @@ metadata:
   description: Archive API for the wayback machine
 spec:
   type: openapi
-  lifecycle: production
+  lifecycle: Novo
   owner: team-a
   system: system:default/cliente-rh
   definition:
