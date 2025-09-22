@@ -4,14 +4,9 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   tags:
-    - java
     - openapi
     - auth0-token
-    - publico
     - login-usuario
-    - lgpd
-    - pii
-    - iso9001
   links:
     - url: https://example.com/user
       title: Examples Users
