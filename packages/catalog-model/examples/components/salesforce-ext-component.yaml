@@ -5,7 +5,10 @@ metadata:
   title: Salesforce Service (ext)
   description: Serviço externo ref. sistema Salesforce
   tags:
-  - externo
+    - externo
+    - openapi
+    - auth0-token
+    - login-usuario
 spec:
   type: externo
   lifecycle: Novo
