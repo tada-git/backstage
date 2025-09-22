@@ -3,9 +3,6 @@ kind: Component
 metadata:
   name: servico-teste
   description: Componente de teste que consome uma API
-  tags:
-  - teste
-  - api
 spec:
   type: service
   lifecycle: Novo
