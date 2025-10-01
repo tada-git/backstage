@@ -4,7 +4,7 @@ metadata:
   name: podcast-api
   description: Podcast API
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: experimental
   owner: team-b
   system: podcast
