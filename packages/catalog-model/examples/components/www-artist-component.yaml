@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/source-template: template:default/react-ssr-template
 spec:
-  type: website
+  type: "Web"
   lifecycle: Aposentado
   owner: team-a
   system: artist-engagement-portal
