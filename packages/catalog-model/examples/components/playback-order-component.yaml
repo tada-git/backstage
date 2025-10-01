@@ -4,7 +4,7 @@ metadata:
   name: playback-order
   description: Playback Order
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: production
   owner: user:guest
   system: audio-playback
