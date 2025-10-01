@@ -4,7 +4,7 @@ metadata:
   name: wayback-search
   description: Search of the wayback machine
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: Descontinuado
   owner: team-a
   system: system:default/venda-rh
