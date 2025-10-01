@@ -33,7 +33,7 @@ metadata:
     backstage.io/source-template: template:default/springboot-template
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: Registrado
   owner: team-a
   system: system:default/venda-rh
