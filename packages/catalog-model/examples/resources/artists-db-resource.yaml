@@ -4,15 +4,15 @@ metadata:
   name: artists-db
   description: Stores artist details
   tags:
-    - HTTP
-    - TCP
-    - Peering
-    - Transig Gateway
-    - SG
-    - ALB
-    - SSL/TLS
-    - mTLS
-    - Direct Connect
+    - http
+    - tcp
+    - peering
+    - transig gateway
+    - sg
+    - alb
+    - ssl/tls
+    - mtls
+    - direct connect
 spec:
   type: database
   owner: team-a
