@@ -4,7 +4,7 @@ metadata:
   name: servico-teste
   description: Componente de teste que consome uma API
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: Novo
   owner: team-a
   system: system:default/venda-rh
