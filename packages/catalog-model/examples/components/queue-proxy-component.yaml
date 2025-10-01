@@ -4,7 +4,7 @@ metadata:
   name: queue-proxy
   description: Queue Proxy
 spec:
-  type: website
+  type: "Web"
   lifecycle: production
   owner: team-b
   system: podcast
