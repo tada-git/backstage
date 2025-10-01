@@ -7,12 +7,12 @@ metadata:
     - http
     - tcp
     - peering
-    - transig gateway
+    - transig-gateway
     - sg
     - alb
-    - ssl/tls
+    - ssl-tls
     - mtls
-    - direct connect
+    - direct-connect
 spec:
   type: database
   owner: team-a
