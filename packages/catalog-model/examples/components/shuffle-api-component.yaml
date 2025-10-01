@@ -7,7 +7,7 @@ metadata:
     goVersion: go1.15.3
     category: music
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: production
   owner: user:guest
   system: audio-playback
