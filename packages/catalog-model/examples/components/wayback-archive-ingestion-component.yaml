@@ -1,10 +1,34 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: wayback-archive-ingestion
-  description: Ingestion subsystem of the Wayback Archive
+  name: registro-de-tags
+  description: |
+    Componente utilizado para registrar todas as tags existentes para componentes. 
+    - Tipo de exposição: 
+      async
+      graphql
+      grpc
+      openapi
+    - Modelo de acesso: 
+      público
+      privado
+      sensedia-token
+      rhsso-token 
+      auth0-token
+      token-fixo
+      authorization-code
+      client-credentials
+      password
+      implicit
+      pkce
+      sdk (auth0)
+      range-ips
+  tags:
+    - openapi
+    - auth0-token
+    - login-usuario
 spec:
   type: "Serviço"
-  lifecycle: production
-  owner: team-d
+  lifecycle: Ativo
+  owner: "group:default/governanca-vr"
   subcomponentOf: wayback-archive
