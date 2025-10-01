@@ -4,6 +4,6 @@ metadata:
   name: searcher
   description: Searcher
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: production
   owner: user:guest
