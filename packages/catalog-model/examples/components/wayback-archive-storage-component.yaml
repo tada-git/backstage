@@ -4,7 +4,7 @@ metadata:
   name: wayback-archive-storage
   description: Storage subsystem of the Wayback Archive
 spec:
-  type: service
+  type: "Serviço"
   lifecycle: Ativo
   owner: team-a
   subcomponentOf: wayback-archive
