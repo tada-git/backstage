@@ -10,7 +10,7 @@ metadata:
     - auth0-token
     - login-usuario
 spec:
-  type: externo
+  type: Externo
   lifecycle: Novo
   owner: team-a
   system: system:default/salesforce
