@@ -4,7 +4,7 @@ metadata:
   name: playback-sdk
   description: Audio and video playback SDK
 spec:
-  type: library
+  type: "Biblioteca"
   lifecycle: experimental
   owner: team-c
   system: audio-playback
