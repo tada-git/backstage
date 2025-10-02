@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: registro-de-tags
+  title: Registro de TAGs
   description: |
     Componente utilizado para registrar todas as tags existentes para componentes. 
     - Tipo de exposição: 
