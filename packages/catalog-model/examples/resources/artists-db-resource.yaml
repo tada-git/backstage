@@ -14,7 +14,7 @@ metadata:
     - mtls
     - direct-connect
 spec:
-  type: database
+  type: Dados
   owner: team-a
   lifecycle: Provisionado
   system: artist-engagement-portal
