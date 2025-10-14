@@ -34,7 +34,7 @@ metadata:
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
 spec:
   type: "Serviço"
-  lifecycle: Registrado
+  lifecycle: Ativo
   owner: team-a
   system: system:default/venda-rh
   dependsOn: ['resource:artists-db', 'component:default/petstore', 'component:default/salesforce-ext']
