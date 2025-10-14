@@ -35,7 +35,7 @@ metadata:
 spec:
   type: "Serviço"
   lifecycle: Ativo
-  owner: team-a
+  owner: group:default/arquitetura
   system: system:default/venda-rh
   dependsOn: ['resource:artists-db', 'component:default/petstore', 'component:default/salesforce-ext']
   apiConsumedBy: ['component:www-artist']
