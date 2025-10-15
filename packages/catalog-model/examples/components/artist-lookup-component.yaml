@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: artist-lookup
+  title: Artist Lookup
   description: Artist Lookup
   tags:
     - openapi
