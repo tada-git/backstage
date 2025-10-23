@@ -41,4 +41,6 @@ spec:
   dependsOn: ['resource:artists-db', 'component:default/petstore', 'component:default/salesforce-ext']
   apiConsumedBy: ['component:www-artist']
   consumesApis: ['api:default/petstore']
+  providesApi: ['api:default/petstore']
+  apiProvidedBy: ['api:default/petstore']
   version: 1.2.0
