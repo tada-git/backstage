@@ -8,6 +8,6 @@ metadata:
 spec:
   type: "Web"
   lifecycle: Aposentado
-  owner: team-a
+  owner: group:default/arquitetura
   system: artist-engagement-portal
   consumesApis: ['component:artist-lookup']
