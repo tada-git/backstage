@@ -13,7 +13,7 @@ metadata:
       icon: github
 spec:
   type: "Serviço"
-  lifecycle: Ativo
+  lifecycle: Registrado
   owner: team-c
   providesApis:
     - petstore
